@@ -1,0 +1,4 @@
+private-key.*
+vendor/
+*.o
+__pycache__/

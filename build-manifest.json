@@ -1,0 +1,26 @@
+{
+  "scheme": "ED25519-SHA256-V1",
+  "trusted_public_key": "EE212A767B007122BDB15C67CCBFFB841B0641962BD6F83B4240C114271B24A4",
+  "windows_target": "x86_64-w64-mingw32",
+  "windows_crypto": "libsodium 1.0.22 statically linked",
+  "artifacts": {
+    "vali-flysafe": {
+      "bytes": 21360,
+      "sha256": "0bc0660b2a3e6a7e9136528d4517491b624a42324aa3d9e92cdb68c172fa53e7"
+    },
+    "vali-flysafe.exe": {
+      "bytes": 586072,
+      "sha256": "ffa03e6f3ac7645b338ab3a9f62ad3146ef5ab65a308b74d677faec06f56fa7c"
+    },
+    "samples/android.igc": {
+      "bytes": 604,
+      "sha256": "bad05a7ee82b8fd36bff40e1d3b644f4da34bdd6b9f50efc1033cede0292cec8"
+    },
+    "samples/vario.igc": {
+      "bytes": 594,
+      "sha256": "8087bfa8b35c4961f11c8c871575d9b2681a4210e742d4a6b96af9cf61d89856"
+    }
+  },
+  "manufacturer_identifier": "XFS",
+  "a_record": "AXFS prefix required; recorder serial optional and not validated"
+}

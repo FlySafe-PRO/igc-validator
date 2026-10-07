@@ -1,0 +1,6 @@
+{
+  "dependency": "libsodium",
+  "windows_version": "1.0.22",
+  "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.22-mingw.tar.gz",
+  "archive_sha256": "1d99e0afaf27bce664249232e9dc628ae6bb7b49f0ab53ad6db372b028a35d9d"
+}
